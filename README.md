@@ -24,7 +24,7 @@ an interactive dashboard that displays netflix data analysis results that focus 
 - Data Collection : Download data from the link above
 - Data Cleaning and Preparation : Processed raw data, detect missing value and add some column to facilitate visualization with <a href="https://github.com/Nathasyarnt/Netflix-Dashboard/blob/main/preprocessing.r">preprocessing</a>
 - Data Visualization : Created interactive dashboards for user friendly
-- Analysis : Conducted trend and segmentation analysis on spending behaviors
+- Analysis : Conducted trend and segmentation analysis
 
 ## Dashboard
 <a href="https://github.com/Nathasyarnt/Netflix-Dashboard/blob/main/Dashboard.pbix">View Dashboard</a>
